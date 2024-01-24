@@ -1,6 +1,6 @@
 <h1 align="center"> Formulário de venda de carros </h1>
 
-<p>Projeto desenvolvido para o curso de formação de Frontend da Udemy com o professor Matheus Battisti.</p>
+<p align="center">Projeto desenvolvido para o curso de formação de Frontend da Udemy com o professor Matheus Battisti.</p>
 
 ##
 <h2 align="center"> Linguagens utilizadas</h2>
