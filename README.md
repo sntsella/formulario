@@ -1,6 +1,6 @@
 <h1 align="center"> Formulário de venda de carros </h1>
 
-<p align="center">Projeto desenvolvido para o curso de formação de Frontend da Udemy com o professor Matheus Battisti.</p>
+<p align="center">Bem-vindo ao repositório do Formulário de Venda de Carros! Este projeto tem como objetivo proporcionar uma solução eficiente para a gestão de informações relacionadas à venda de veículos.</p>
 
 ##
 <h2 align="center"> Linguagens utilizadas</h2>
